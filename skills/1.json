@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "category": "ui-ux",
+    "title": "Figma Design Course",
+    "author": "DesignWithArash",
+    "image": "https://i.ibb.co/0jZzQYH/1.png",
+    "links": [
+      "https://www.youtube-nocookie.com/embed/videoseries?list=PLjiHFwhbHYlEmPhn68XdG2p2k4X47XR-8"
+    ]
+  },
+
+  {
+    "id": "2",
+    "category": "ui-ux",
+    "title": "UI/UX Design",
+    "author": "DesignWithARash",
+    "image": "https://i.ibb.co/0jZzQYH/1.png",
+    "links": [
+      "https://youtube.come/playlist?list=PL7eFhT_R0Dp7RZIwUuZBtU3YsYp7lUM7U"
+    ]
+  }
+]
