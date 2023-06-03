@@ -1,4 +1,4 @@
 ## API
 
-* [OCW Data]()
-* [Random Skill Playlist]()
+* [OCW Data](./ocw)
+* [Random Skill Playlist](./skills)
