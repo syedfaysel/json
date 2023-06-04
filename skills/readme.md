@@ -8,41 +8,42 @@ TOC
 
 
 <div class="skills">
-  <h3>HeHe!Box within a box</h3>
-  <div id="items">
-  </div>
+<h3>HeHe!Box within a box</h3>
+<div id="items">
+</div>
 
-  <script>
-        // fetch data here
-      fetch("./1.json")
-        .then(response => response.json())
-        .then(data => {
-          console.log(data);
-          displayData(data);
-        });
+<script>
+    console.log("script works");
+      // fetch data here
+    fetch("https://syefaysel.github.io/json-api/skills/1.json")
+      .then(response => response.json())
+      .then(data => {
+        console.log(data);
+        displayData(data);
+      });
 
 
 
-        // display data
-        function displayData(data) {
-          let items = document.getElementById("items");
+      // display data
+      function displayData(data) {
+        let items = document.getElementById("items");
 
-          for(const skill of data) {
-            console.log(skill);
-            
+        for(const skill of data) {
+          console.log(skill);
+          
 
-            let item = document.createElement("div");
-            item.classList = "item";
-            item.innerHTML = `<p>${skill.title}</p>
-            <p>${skill.id}</p>
-            <a href="${skill.links[0]}" target="_blank">Watch now</a>`;
-            items.appendChild(item);
-          }
+          let item = document.createElement("div");
+          item.classList = "item";
+          item.innerHTML = `<p>${skill.title}</p>
+          <p>${skill.id}</p>
+          <a href="${skill.links[0]}" target="_blank">Watch now</a>`;
+          items.appendChild(item);
         }
+      }
 
 
-        
-  </script>
+      
+</script>
 
 </div>
 
