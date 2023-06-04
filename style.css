@@ -17,8 +17,7 @@ a{
     margin: 10px;
 }
 .item{
-  width: 250px;
-  height: 200px;
+
   padding: 10px;
   background-color: rgb(238, 250, 255);
   box-shadow: 0 0 10px rgba(98, 102, 140, 0.3);
