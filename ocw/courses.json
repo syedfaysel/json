@@ -1,6 +1,6 @@
 [
   {
-    "courseCode": "CSE110",
+    "courseCode": "cse110",
     "title": "Programming Language I",
     "credit": 3,
     "prerequisite": "None",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "courseCode": "CSE111",
+    "courseCode": "cse111",
     "title": "Programming Language II",
     "credit": 3,
     "prerequisite": "None",
@@ -54,48 +54,6 @@
         "title": "Introduction to CSE111",
         "author": "Anonymous",
         "link": "https://www.youtube.com/embed/videoseries?list=PLvr0Ht-XkB_3NAwjutgaG0-62d2yjG6qz"
-      },
-      {
-        "title": "Introduction to CSE110",
-        "author": "Anonymous",
-        "link": "https://www.youtube.com/watch?v=9LrKZu9Rgjg"
-      }
-    ]
-  },
-  {
-    "courseCode": "CSE221",
-    "title": "Algorithm Design and Analysis",
-    "credit": 3,
-    "prerequisite": "CSE110, CSE221",
-    "courseType": "Theory",
-    "courseCategory": "Major",
-    "semester": "1st",
-    "videos": [
-      {
-        "title": "Introduction to CSE111",
-        "author": "Anonymous",
-        "link": "https://www.youtube.com/watch?v=9LrKZu9Rgjg"
-      },
-      {
-        "title": "Introduction to CSE110",
-        "author": "Anonymous",
-        "link": "https://www.youtube.com/watch?v=9LrKZu9Rgjg"
-      }
-    ]
-  },
-  {
-    "courseCode": "CSE221",
-    "title": "Algorithm Design and Analysis",
-    "credit": 3,
-    "prerequisite": "CSE110, CSE221",
-    "courseType": "Theory",
-    "courseCategory": "Major",
-    "semester": "1st",
-    "videos": [
-      {
-        "title": "Introduction to CSE111",
-        "author": "Anonymous",
-        "link": "https://www.youtube.com/watch?v=9LrKZu9Rgjg"
       },
       {
         "title": "Introduction to CSE110",
