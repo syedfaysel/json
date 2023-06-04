@@ -20,12 +20,12 @@ TOC
       mode: 'no-cors',
       // mode: 'cors',
       headers: {
-          'Content-Type': 'application/json',
+          'Content-Type': 'application/json'
       }
     }
       // fetch data here
     fetch("https://syefaysel.github.io/json-api/skills/1.json", options)
-      .then(response => response.json())
+      .then(response => response.JSON())
       .then(data => {
         console.log(data);
         displayData(data);
