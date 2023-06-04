@@ -1,5 +1,5 @@
 TOC  
 
-[/Parent Directory](../)
+[Parent Directory/](../)
 * [Course info](./courses.json)
 * [Faculty info]()
