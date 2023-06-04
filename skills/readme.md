@@ -14,8 +14,17 @@ TOC
 
 <script>
     console.log("script works");
+
+    const options = {
+      method : 'GET',
+      mode: 'no-cors',
+      // mode: 'cors',
+      headers: {
+          'Content-Type': 'application/json',
+      }
+    }
       // fetch data here
-    fetch("https://syefaysel.github.io/json-api/skills/1.json")
+    fetch("https://syefaysel.github.io/json-api/skills/1.json", options)
       .then(response => response.json())
       .then(data => {
         console.log(data);
