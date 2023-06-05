@@ -1,6 +1,6 @@
 [
   {
-    "courseCode": "cse110",
+    "courseCode": "CSE110",
     "title": "Programming Language I",
     "credit": 3,
     "prerequisite": "None",
@@ -20,213 +20,91 @@
       }
     ]
   },
+  
   {
-    "courseCode": "cse111",
+    "courseCode": "CSE111",
     "title": "Programming Language II",
     "credit": 3,
     "prerequisite": "None",
     "courseType": "Theory",
     "courseCategory": "Major",
-    "semester": "1st",
+    "semester": "2nd",
     "videos": [
       {
-        "title": "Introduction to CSE111",
-        "author": "Anonymous",
-        "link": "https://www.youtube.com/watch?v=9LrKZu9Rgjg"
-      },
-      {
-        "title": "Introduction to CSE110",
-        "author": "Anonymous",
-        "link": "https://www.youtube.com/watch?v=9LrKZu9Rgjg"
-      }
-    ]
-  },
-  {
-    "courseCode": "CSE221",
-    "title": "Algorithm Design and Analysis",
-    "credit": 3,
-    "prerequisite": "CSE110, CSE221",
-    "courseType": "Theory",
-    "courseCategory": "Major",
-    "semester": "1st",
-    "videos": [
-      {
-        "title": "Introduction to CSE111",
-        "author": "Anonymous",
+        "title": "OOP (Python) TAW ",
+        "author": "Tawhid Anwar",
         "link": "https://www.youtube.com/embed/videoseries?list=PLvr0Ht-XkB_3NAwjutgaG0-62d2yjG6qz"
       },
       {
-        "title": "Introduction to CSE110",
+        "title": "OOP",
         "author": "Anonymous",
         "link": "https://www.youtube.com/watch?v=9LrKZu9Rgjg"
       }
     ]
   },
+
   {
-    "courseCode": "CSE221",
-    "title": "Algorithm Design and Analysis",
+    "courseCode": "CSE220",
+    "title": "Data Structures",
     "credit": 3,
-    "prerequisite": "CSE110, CSE221",
-    "courseType": "Theory",
+    "prerequisite": "CSE111",
+    "courseType": "Theory, Lab",
     "courseCategory": "Major",
-    "semester": "1st",
+    "semester": "4th",
     "videos": [
       {
-        "title": "Introduction to CSE111",
-        "author": "Anonymous",
-        "link": "https://www.youtube.com/watch?v=9LrKZu9Rgjg"
+        "title": "CSE220 bt AHR",
+        "author": "Ahnaf Hassan Rodoshi",
+        "link": "https://www.youtube.com/embed/videoseries?list=PLvr0Ht-XkB_3NAwjutgaG0-62d2yjG6qz"
       },
       {
-        "title": "Introduction to CSE110",
-        "author": "Anonymous",
+        "title": "DSA by Jenny",
+        "author": "Jenny's Lectures",
         "link": "https://www.youtube.com/watch?v=9LrKZu9Rgjg"
       }
     ]
   },
+
   {
     "courseCode": "CSE221",
     "title": "Algorithm Design and Analysis",
     "credit": 3,
-    "prerequisite": "CSE110, CSE221",
-    "courseType": "Theory",
+    "prerequisite": "CSE220",
+    "courseType": "Theory, Lab",
     "courseCategory": "Major",
     "semester": "1st",
     "videos": [
       {
-        "title": "Introduction to CSE111",
-        "author": "Anonymous",
-        "link": "https://www.youtube.com/watch?v=9LrKZu9Rgjg"
+        "title": "Algorithms (Bari)",
+        "author": "Abdul Bari",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O"
       },
       {
-        "title": "Introduction to CSE110",
+        "title": "Complete DSA",
         "author": "Anonymous",
-        "link": "https://www.youtube.com/watch?v=9LrKZu9Rgjg"
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU"
       }
     ]
   },
+
   {
-    "courseCode": "CSE221",
-    "title": "Algorithm Design and Analysis",
+    "courseCode": "CSE370",
+    "title": "Database Management System",
     "credit": 3,
-    "prerequisite": "CSE110, CSE221",
-    "courseType": "Theory",
+    "prerequisite": "CSE221",
+    "courseType": "Theory, Lab",
     "courseCategory": "Major",
     "semester": "1st",
     "videos": [
       {
-        "title": "Introduction to CSE111",
-        "author": "Anonymous",
-        "link": "https://www.youtube.com/watch?v=9LrKZu9Rgjg"
+        "title": "Theory Lectures",
+        "author": "Bracu",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLolBlJ23We1UZMpcE4-uOM9dJHk6gp1vs"
       },
       {
-        "title": "Introduction to CSE110",
-        "author": "Anonymous",
-        "link": "https://www.youtube.com/watch?v=9LrKZu9Rgjg"
-      }
-    ]
-  },
-  {
-    "courseCode": "CSE221",
-    "title": "Algorithm Design and Analysis",
-    "credit": 3,
-    "prerequisite": "CSE110, CSE221",
-    "courseType": "Theory",
-    "courseCategory": "Major",
-    "semester": "1st",
-    "videos": [
-      {
-        "title": "Introduction to CSE111",
-        "author": "Anonymous",
-        "link": "https://www.youtube.com/watch?v=9LrKZu9Rgjg"
-      },
-      {
-        "title": "Introduction to CSE110",
-        "author": "Anonymous",
-        "link": "https://www.youtube.com/watch?v=9LrKZu9Rgjg"
-      }
-    ]
-  },
-  {
-    "courseCode": "CSE221",
-    "title": "Algorithm Design and Analysis",
-    "credit": 3,
-    "prerequisite": "CSE110, CSE221",
-    "courseType": "Theory",
-    "courseCategory": "Major",
-    "semester": "1st",
-    "videos": [
-      {
-        "title": "Introduction to CSE111",
-        "author": "Anonymous",
-        "link": "https://www.youtube.com/watch?v=9LrKZu9Rgjg"
-      },
-      {
-        "title": "Introduction to CSE110",
-        "author": "Anonymous",
-        "link": "https://www.youtube.com/watch?v=9LrKZu9Rgjg"
-      }
-    ]
-  },
-  {
-    "courseCode": "CSE221",
-    "title": "Algorithm Design and Analysis",
-    "credit": 3,
-    "prerequisite": "CSE110, CSE221",
-    "courseType": "Theory",
-    "courseCategory": "Major",
-    "semester": "1st",
-    "videos": [
-      {
-        "title": "Introduction to CSE111",
-        "author": "Anonymous",
-        "link": "https://www.youtube.com/watch?v=9LrKZu9Rgjg"
-      },
-      {
-        "title": "Introduction to CSE110",
-        "author": "Anonymous",
-        "link": "https://www.youtube.com/watch?v=9LrKZu9Rgjg"
-      }
-    ]
-  },
-  {
-    "courseCode": "CSE221",
-    "title": "Algorithm Design and Analysis",
-    "credit": 3,
-    "prerequisite": "CSE110, CSE221",
-    "courseType": "Theory",
-    "courseCategory": "Major",
-    "semester": "1st",
-    "videos": [
-      {
-        "title": "Introduction to CSE111",
-        "author": "Anonymous",
-        "link": "https://www.youtube.com/watch?v=9LrKZu9Rgjg"
-      },
-      {
-        "title": "Introduction to CSE110",
-        "author": "Anonymous",
-        "link": "https://www.youtube.com/watch?v=9LrKZu9Rgjg"
-      }
-    ]
-  },
-  {
-    "courseCode": "CSE221",
-    "title": "Algorithm Design and Analysis",
-    "credit": 3,
-    "prerequisite": "CSE110, CSE221",
-    "courseType": "Theory",
-    "courseCategory": "Major",
-    "semester": "1st",
-    "videos": [
-      {
-        "title": "Introduction to CSE111",
-        "author": "Anonymous",
-        "link": "https://www.youtube.com/watch?v=9LrKZu9Rgjg"
-      },
-      {
-        "title": "Introduction to CSE110",
-        "author": "Anonymous",
-        "link": "https://www.youtube.com/watch?v=9LrKZu9Rgjg"
+        "title": "Lab Lectures",
+        "author": "Bracu",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLolBlJ23We1WSlWl0YW-htAPf3DSJvKb5"
       }
     ]
   }
