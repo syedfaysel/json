@@ -1,4 +1,114 @@
 [
+
+
+
+  {
+    "courseCode": "S100",
+    "title": "C++ Programming",
+    "credit": null,
+    "prerequisite": "None",
+    "courseType": "Theory, Code",
+    "courseCategory": "Unacademic",
+    "semester": "",
+    "videos": [
+      {
+        "title": "C++ in Bangla",
+        "author": "Anisul Islam",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL"
+      },
+      {
+        "title": "Interactive C++",
+        "author": "Cherno",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb"
+      },
+      {
+        "title": "Complete DSA in C++",
+        "author": "Apna College",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ"
+      }
+    ]
+  },
+
+  {
+    "courseCode": "S101",
+    "title": "Competitive Programming",
+    "credit": null,
+    "prerequisite": "None",
+    "courseType": "Theory, Code",
+    "courseCategory": "Unacademic",
+    "semester": "",
+    "videos": [
+      {
+        "title": "Complete CP Essentials",
+        "author": "Luv",
+        "link": "https://www.youtube.com/embed/videoseries?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-"
+      },
+      {
+        "title": "C++ STL for CP",
+        "author": "Luv",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn"
+      }
+    ]
+  },
+
+  {
+    "courseCode": "S102",
+    "title": "Python Programming",
+    "credit": null,
+    "prerequisite": "None",
+    "courseType": "Theory, Code",
+    "courseCategory": "Unacademic",
+    "semester": "",
+    "videos": [
+      {
+        "title": "Python (Corey Schafer)",
+        "author": "Corey Schafer",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU"
+      },
+      {
+        "title": "Python (Hindi)",
+        "author": "Code With Harry",
+        "link": "https://www.youtube.com/embed/videoseries?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME"
+      }
+    ]
+  },
+
+  {
+    "courseCode": "S103",
+    "title": "Web Dev & Javascript",
+    "credit": null,
+    "prerequisite": "None",
+    "courseType": "Theory, Code",
+    "courseCategory": "Unacademic",
+    "semester": "",
+    "videos": [
+      {
+        "title": "Frontend (Apna College)",
+        "author": "Apna College",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
+      },
+      {
+        "title": "JavaScript Bangla",
+        "author": "Anisul Islam",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLgH5QX0i9K3qzryglMjcyEktz4q7ySunX"
+      },
+      {
+        "title": "Full Stack Army",
+        "author": "Stack Learner",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PL_XxuZqN0xVD0op-QDEgyXFA4fRPChvkl"
+      },
+      {
+        "title": "React w Sumit",
+        "author": "Sumit Saha",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr"
+      }
+    ]
+  },
+
+
+
+
+
   {
     "courseCode": "CSE110",
     "title": "Programming Language I",
