@@ -198,6 +198,23 @@
   },
 
   {
+    "courseCode": "CSE331",
+    "title": "Automata & Computability",
+    "credit": 3,
+    "prerequisite": "CSE221",
+    "courseType": "Theory, Lab",
+    "courseCategory": "Major",
+    "semester": "1st",
+    "videos": [
+      {
+        "title": "Lectures by Shaily Roy",
+        "author": "Shaily Roy",
+        "link": "https://youtube.com/playlist?list=PLNDrhDXd0Qt-0lCTNNWGbRBwShPe6wNUy"
+      }
+    ]
+  },
+
+  {
     "courseCode": "CSE370",
     "title": "Database Management System",
     "credit": 3,
