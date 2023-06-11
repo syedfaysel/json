@@ -44,9 +44,24 @@
         "link": "https://www.youtube.com/embed/videoseries?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-"
       },
       {
-        "title": "C++ STL for CP",
+        "title": "C++ STL",
         "author": "Luv",
         "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn"
+      },
+      {
+        "title": "Number Theory v2 (M. Penn)",
+        "author": "Michael Penn",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PL22w63XsKjqwn2V9CiP7cuSGv9plj71vv"
+      },
+      {
+        "title": "Number Theory v1 (old and mixed)",
+        "author": "Michael Penn",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PPL22w63XsKjqwAgBzVFVqZNMcVKpOOAA7c"
+      },
+      {
+        "title": "Number Theory (Hindi)",
+        "author": "Luv",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLauivoElc3giVROwL-6g9hO-LlSen_NaV"
       }
     ]
   },
