@@ -119,6 +119,32 @@
       }
     ]
   },
+  {
+    "courseCode": "ML101",
+    "title": "Machine Learning",
+    "credit": null,
+    "prerequisite": "None",
+    "courseType": "Theory, Code",
+    "courseCategory": "Unacademic",
+    "semester": "",
+    "videos": [
+      {
+        "title": "ML with Python",
+        "author": "SentDex",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v"
+      },
+      {
+        "title": "Maths for ML",
+        "author": "Digital Learning Hub",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3"
+      },
+      {
+        "title": "ML, Linear Algebra, NumPy",
+        "author": "Digital Guru",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLPzjifo9TUNVDnm5WsERGGEeGwaysd7VL"
+      }
+    ]
+  },
 
 
 
@@ -250,4 +276,6 @@
       }
     ]
   }
+
+
 ]
