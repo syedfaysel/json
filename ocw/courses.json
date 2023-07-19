@@ -129,6 +129,11 @@
     "semester": "",
     "videos": [
       {
+        "title": "Complete ML",
+        "author": "Krish Naik",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe"
+      },
+      {
         "title": "ML with Python",
         "author": "SentDex",
         "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v"
