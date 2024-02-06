@@ -290,6 +290,59 @@
         "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLolBlJ23We1WSlWl0YW-htAPf3DSJvKb5"
       }
     ]
+  },
+  {
+    "courseCode": "CSE422",
+    "title": "Artificial Intelligence",
+    "credit": 3,
+    "prerequisite": "CSE221",
+    "courseType": "Theory, Lab",
+    "courseCategory": "Major",
+    "semester": "9th",
+    "videos": [
+      {
+        "title": "AI: MIT Fall'10",
+        "author": "MIT",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi"
+      },
+      {
+        "title": "AI: Class Recording",
+        "author": "Tanzim Reza, Bracu",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLXyBH3LodMoc4_Z_G-UIowy9o5QDeaFhI"
+      }
+    ]
+  },
+  {
+    "courseCode": "MAT216",
+    "title": "Linear Algebra",
+    "credit": 3,
+    "prerequisite": "MAT120",
+    "courseType": "Theory",
+    "courseCategory": "Major",
+    "semester": "9th",
+    "videos": [
+      {
+        "title": "Linear Algebra",
+        "author": "Kimberly Brehm",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE450",
+    "title": "Advanced Competitive Programming",
+    "credit": 3,
+    "prerequisite": "CSE221",
+    "courseType": "Theory, Lab",
+    "courseCategory": "Major",
+    "semester": "9th",
+    "videos": [
+      {
+        "title": "Competitive Programming",
+        "author": "Luv",
+        "link": "https://www.youtube.com/embed/videoseries?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-"
+      }
+    ]
   }
 
 
