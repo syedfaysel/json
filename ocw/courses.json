@@ -342,6 +342,16 @@
         "author": "Luv",
         "link": "https://www.youtube.com/embed/videoseries?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-"
       }
+    ],
+    "resources":[
+      {
+        "title": "Drive link 1",
+        "link": "https://cses.fi/book/book.pdf"
+      },
+      {
+        "title": "Drive Link 2",
+        "link": "https://drive.google.com/drive/folders/1"
+      }
     ]
   }
 
