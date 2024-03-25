@@ -116,6 +116,13 @@
         "title": "React w Sumit",
         "author": "Sumit Saha",
         "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr"
+      },
+      {
+        "title": "Master NodeJS|Express",
+        "author": "Piyush Garg",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo",
+        "rating": 5,
+        "editorsPick": true
       }
     ]
   },
@@ -205,6 +212,11 @@
         "title": "OOP",
         "author": "Anonymous",
         "link": "https://www.youtube.com/watch?v=9LrKZu9Rgjg"
+      },
+      {
+        "title": "OOP Theory",
+        "author": "Anonymous",
+        "link": "https://www.youtube.com/embed/videoseries?list=PLaVWjQSl4OrjCnQU00ES3CnimhS0Ii9Ne"
       }
     ]
   },
@@ -219,9 +231,14 @@
     "semester": "4th",
     "videos": [
       {
-        "title": "CSE220 bt AHR",
+        "title": "CSE220 by AHR",
         "author": "Ahnaf Hassan Rodoshi",
         "link": "https://www.youtube.com/embed/videoseries?list=PLOlC8l3e9tOuXOYOucGPpcTwezjsLFHBo"
+      },
+      {
+        "title": "Data Structures:Python",
+        "author": "codebasics",
+        "link": "https://www.youtube.com/embed/videoseries?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12"
       },
       {
         "title": "DSA by Jenny",
@@ -252,7 +269,38 @@
       }
     ]
   },
-
+  {
+    "courseCode": "CSE230",
+    "title": "Discrete Mathematics",
+    "credit": 3,
+    "prerequisite": "",
+    "courseType": "Theory",
+    "courseCategory": "Major",
+    "semester": "2nd",
+    "videos": [
+      {
+        "title": "Discrete Mathematics | sust",
+        "author": "Dr. Muhammed Zafar Iqbal",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLv832EzHdqDABq36G_Zpkj5hYjQ-q562W"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE250",
+    "title": "Electric Circuits",
+    "credit": 3,
+    "prerequisite": "",
+    "courseType": "Theory, Lab",
+    "courseCategory": "Major",
+    "semester": "2nd",
+    "videos": [
+      {
+        "title": "Mixed Playlist",
+        "author": "by Anika Tahsin",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLCh3_NUqW7_Kweh6RMmD9SIX4AAGF96i5"
+      }
+    ]
+  },
   {
     "courseCode": "CSE331",
     "title": "Automata & Computability",

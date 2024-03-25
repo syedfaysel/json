@@ -8,4 +8,4 @@
 </div>
 
 * [OCW Data](./ocw)
-* [Random Skill Playlist](./skills)
+<!-- * [Random Skill Playlist](./skills) -->
