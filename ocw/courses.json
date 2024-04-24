@@ -370,9 +370,34 @@
     "semester": "9th",
     "videos": [
       {
+        "title": "Linear Algebra | Fall 23",
+        "author": "Partha Sutra Dhar",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PL63IQkIty91gupdtXVkCm5FN2X3X4RbSz"
+      },
+      {
+        "title": "Linear Algebra (HOA)",
+        "author": "Hosen A Ali",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLPqGyb-CvzAG3rCvG4jw-uPefkdpTujEJ"
+      },
+      {
+        "title": "Fourier Analysis (HOA)",
+        "author": "Hosen A Ali",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLPqGyb-CvzAEMxlLYwv9fpactqStCin6y"
+      },
+      {
         "title": "Linear Algebra",
         "author": "Kimberly Brehm",
         "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK"
+      },
+      {
+        "title": "Fall-23 Class Recordings",
+        "author": "HOA",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLOtP4f8D4mwDse8ugiPSbHTS6WCXAY9wz"
+      },
+      {
+        "title": "Linear Algebra (Mixed)",
+        "author": "AAI, MZK et.al",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLMZnvBHNk2GXZtWLVxnWfGAAlrz3wvzf9"
       }
     ]
   },
