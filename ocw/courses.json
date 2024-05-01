@@ -49,19 +49,44 @@
         "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn"
       },
       {
+        "title": "Graph Series",
+        "author": "Striver",
+        "link": "https://www.youtube.com/embed/videoseries?list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn-"
+      },
+      {
+        "title": "Graph Theory",
+        "author": "WilliamFiset",
+        "link": "https://www.youtube.com/embed/videoseries?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P-"
+      },
+      {
+        "title": "Graph Practice",
+        "author": "Colin Galen",
+        "link": "https://www.youtube.com/embed?v=2hBjTs3qRg0&ab_channel=ColinGalen"
+      },
+      {
+        "title": "Bitwise Practice",
+        "author": "Colin Galen",
+        "link": "https://www.youtube.com/embed?v=UPVoGMZWQMU&ab_channel=ColinGalen"
+      },
+      {
         "title": "Number Theory v2 (M. Penn)",
         "author": "Michael Penn",
         "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PL22w63XsKjqwn2V9CiP7cuSGv9plj71vv"
       },
       {
-        "title": "Number Theory v1 (old and mixed)",
-        "author": "Michael Penn",
-        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PPL22w63XsKjqwAgBzVFVqZNMcVKpOOAA7c"
-      },
-      {
         "title": "Number Theory (Hindi)",
         "author": "Luv",
         "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLauivoElc3giVROwL-6g9hO-LlSen_NaV"
+      },
+      {
+        "title": "Dynamic Programming",
+        "author": "Aditya Verma",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go"
+      },
+      {
+        "title": "DP Series",
+        "author": "Babbar",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLDzeHZWIZsTomOPnCiU3J95WufjE36wsb"
       }
     ]
   },
