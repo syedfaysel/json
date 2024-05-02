@@ -51,22 +51,23 @@
       {
         "title": "Graph Series",
         "author": "Striver",
-        "link": "https://www.youtube.com/embed/videoseries?list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn-"
+        "link": "https://www.youtube.com/embed/videoseries?si=nNtRGN98aGbf4T4x&amp;list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn"
       },
       {
         "title": "Graph Theory",
         "author": "WilliamFiset",
-        "link": "https://www.youtube.com/embed/videoseries?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P-"
+        "link": "https://www.youtube.com/embed/videoseries?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P"
+      },
+      { 
+        "title": "Topic Streams",
+        "author": "Colin Galen",
+        "link": "https://www.youtube.com/embed/videoseries?si=sWHVyh7Iqtbr_rUi&amp;list=PLDjGkpToBsYCaRoQ-_S5MRxYMuKgHD62w",
+        "editorsPick": true
       },
       {
         "title": "Graph Practice",
         "author": "Colin Galen",
-        "link": "https://www.youtube.com/embed/v=2hBjTs3qRg0&ab_channel=ColinGalen"
-      },
-      {
-        "title": "Bitwise Practice",
-        "author": "Colin Galen",
-        "link": "https://www.youtube.com/embed/v=UPVoGMZWQMU&ab_channel=ColinGalen"
+        "link": "https://www.youtube.com/embed/2hBjTs3qRg0?si=zl8EZjbeXw-aaxix"
       },
       {
         "title": "Number Theory v2 (M. Penn)",
