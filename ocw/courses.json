@@ -28,6 +28,23 @@
       }
     ]
   },
+  {
+    "courseCode": "S104",
+    "title": "java Programming",
+    "credit": null,
+    "prerequisite": "None",
+    "courseType": "Theory, Code",
+    "courseCategory": "Unacademic",
+    "semester": "",
+    "videos": [
+      {
+        "title": "Complete DSA in Java",
+        "author": "Apna College",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop",
+        "editorsPick": true
+      }
+    ]
+  },
 
   {
     "courseCode": "S101",
