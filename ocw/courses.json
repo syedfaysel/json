@@ -12,6 +12,12 @@
     "semester": "",
     "videos": [
       {
+        "title": "C++ Placement | DSA",
+        "author": "CodeHelp - by Babbar",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA",
+        "editorsPick": true
+      },
+      {
         "title": "C++ in Bangla",
         "author": "Anisul Islam",
         "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL"
@@ -26,6 +32,7 @@
         "author": "Apna College",
         "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ"
       }
+
     ]
   },
   {
@@ -64,6 +71,12 @@
         "title": "C++ STL",
         "author": "Luv",
         "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn"
+      },
+      {
+        "title": "C++ Placement | DSA",
+        "author": "CodeHelp - by Babbar",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA",
+        "editorsPick": true
       },
       {
         "title": "Graph Series",
