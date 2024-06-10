@@ -358,6 +358,54 @@
     ]
   },
   {
+    "courseCode": "CSE251",
+    "title": "Electric Circuits II",
+    "credit": 3,
+    "prerequisite": "",
+    "courseType": "Theory, Lab",
+    "courseCategory": "Major",
+    "semester": "2nd",
+    "videos": [
+      {
+        "title": "Mixed Playlist",
+        "author": "by Anika Tahsin",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLCh3_NUqW7_Kweh6RMmD9SIX4AAGF96i5"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE320",
+    "title": "Data Communication",
+    "credit": 3,
+    "prerequisite": "",
+    "courseType": "Theory, Lab",
+    "courseCategory": "Major",
+    "semester": "2nd",
+    "videos": [
+      {
+        "title": "Mixed Playlist",
+        "author": "by Anika Tahsin",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLCh3_NUqW7_Kweh6RMmD9SIX4AAGF96i5"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE321",
+    "title": "Operating System",
+    "credit": 3,
+    "prerequisite": "",
+    "courseType": "Theory, Lab",
+    "courseCategory": "Major",
+    "semester": "2nd",
+    "videos": [
+      {
+        "title": "Mixed Playlist",
+        "author": "by Anika Tahsin",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLCh3_NUqW7_Kweh6RMmD9SIX4AAGF96i5"
+      }
+    ]
+  },
+  {
     "courseCode": "CSE330",
     "title": "Numerical Methods",
     "credit": 3,
@@ -376,6 +424,58 @@
   {
     "courseCode": "CSE331",
     "title": "Automata & Computability",
+    "credit": 3,
+    "prerequisite": "CSE221",
+    "courseType": "Theory, Lab",
+    "courseCategory": "Major",
+    "semester": "1st",
+    "videos": [
+      {
+        "title": "Lectures by Shaily Roy",
+        "author": "Shaily Roy",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLNDrhDXd0Qt-0lCTNNWGbRBwShPe6wNUy"
+      },
+      {
+        "title": "FZH Tutorials",
+        "author": "Farhan Feroz",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLI2S4r8iKOiIF99_SXMZu8KerT5aVfPij"
+      },
+      {
+        "title": "Lectures by KKP",
+        "author": "Kabbya Kantam",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLib4rFadvfrckeiUjBjYWnxtyUmW5-X8r"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE340",
+    "title": "Computer Architecture",
+    "credit": 3,
+    "prerequisite": "CSE221",
+    "courseType": "Theory",
+    "courseCategory": "Major",
+    "semester": "1st",
+    "videos": [
+      {
+        "title": "Lectures by Shaily Roy",
+        "author": "Shaily Roy",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLNDrhDXd0Qt-0lCTNNWGbRBwShPe6wNUy"
+      },
+      {
+        "title": "FZH Tutorials",
+        "author": "Farhan Feroz",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLI2S4r8iKOiIF99_SXMZu8KerT5aVfPij"
+      },
+      {
+        "title": "Lectures by KKP",
+        "author": "Kabbya Kantam",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLib4rFadvfrckeiUjBjYWnxtyUmW5-X8r"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE341",
+    "title": "Microprocessor",
     "credit": 3,
     "prerequisite": "CSE221",
     "courseType": "Theory, Lab",
@@ -506,6 +606,28 @@
       {
         "title": "Drive Link 2",
         "link": "https://drive.google.com/drive/folders/1"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE461",
+    "title": "Introduction to Robotics",
+    "credit": 3,
+    "prerequisite": "CSE260",
+    "courseType": "Theory, Lab",
+    "courseCategory": "Major",
+    "semester": "9th",
+    "videos": [
+      {
+        "title": "Bux Videos",
+        "author": "Dr. Khalilur Rhaman",
+        "link": "https://www.youtube.com/embed/videoseries?list=PLcVvBmM3BkTOU-LDEUUdMl_VN2DPgWrQj"
+      }
+    ],
+    "resources":[
+      {
+        "title": "Drive link 1",
+        "link": "https://cses.fi/book/book.pdf"
       }
     ]
   }
