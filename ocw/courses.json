@@ -358,6 +358,22 @@
     ]
   },
   {
+    "courseCode": "CSE330",
+    "title": "Numerical Methods",
+    "credit": 3,
+    "prerequisite": "",
+    "courseType": "Theory, Lab",
+    "courseCategory": "Major",
+    "semester": "7th",
+    "videos": [
+      {
+        "title": "AQU/bracu",
+        "author": "AQU",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLq1kE3IvmqQ61uZyJUJj0zG-OF-CE4fLa"
+      }
+    ]
+  },
+  {
     "courseCode": "CSE331",
     "title": "Automata & Computability",
     "credit": 3,
@@ -370,6 +386,16 @@
         "title": "Lectures by Shaily Roy",
         "author": "Shaily Roy",
         "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLNDrhDXd0Qt-0lCTNNWGbRBwShPe6wNUy"
+      },
+      {
+        "title": "FZH Tutorials",
+        "author": "Farhan Feroz",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLI2S4r8iKOiIF99_SXMZu8KerT5aVfPij"
+      },
+      {
+        "title": "Lectures by KKP",
+        "author": "Kabbya Kantam",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLib4rFadvfrckeiUjBjYWnxtyUmW5-X8r"
       }
     ]
   },
