@@ -384,8 +384,14 @@
     "videos": [
       {
         "title": "Mixed Playlist",
-        "author": "by Anika Tahsin",
-        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLCh3_NUqW7_Kweh6RMmD9SIX4AAGF96i5"
+        "author": "mixed",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLBa2GwOInav7Srvu",
+        "editorsPick": true
+      },
+      {
+        "title": "Mixed Playlist",
+        "author": "mixed",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLWyP9kTG8INcgUeioiNbTwDxuQkdI-IZt"
       }
     ]
   },
