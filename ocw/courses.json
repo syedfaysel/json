@@ -1,7 +1,4 @@
 [
-
-
-
   {
     "courseCode": "S100",
     "title": "C++ Programming",
@@ -32,7 +29,6 @@
         "author": "Apna College",
         "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ"
       }
-
     ]
   },
   {
@@ -88,7 +84,7 @@
         "author": "WilliamFiset",
         "link": "https://www.youtube.com/embed/videoseries?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P"
       },
-      { 
+      {
         "title": "Topic Streams",
         "author": "Colin Galen",
         "link": "https://www.youtube.com/embed/videoseries?si=sWHVyh7Iqtbr_rUi&amp;list=PLDjGkpToBsYCaRoQ-_S5MRxYMuKgHD62w",
@@ -224,10 +220,6 @@
     ]
   },
 
-
-
-
-
   {
     "courseCode": "CSE110",
     "title": "Programming Language I",
@@ -249,7 +241,7 @@
       }
     ]
   },
-  
+
   {
     "courseCode": "CSE111",
     "title": "Programming Language II",
@@ -385,7 +377,7 @@
       {
         "title": "Mixed Playlist",
         "author": "mixed",
-        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLBa2GwOInav7Srvu",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLBa2GwOInav7Srvu-eGTOry6R1ecqOcSE",
         "editorsPick": true
       },
       {
@@ -405,9 +397,19 @@
     "semester": "2nd",
     "videos": [
       {
-        "title": "Mixed Playlist",
-        "author": "by Anika Tahsin",
-        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLCh3_NUqW7_Kweh6RMmD9SIX4AAGF96i5"
+        "title": "Lectures by NTR",
+        "author": "Narzu Tarannum",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLSK_kYNPLtxTV1WV6G-B3sphdmwyZBm4I"
+      },
+      {
+        "title": "Bracu Spring 24",
+        "author": "mixed",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PL9aZtK5kh5WdfgkroKiZUZVcwPeJNiTjr"
+      },
+      {
+        "title": "Bracu Spring 24 (Lab)",
+        "author": "mixed",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PL9aZtK5kh5WfkmNBZ2VVi4f5HjepidzkX"
       }
     ]
   },
@@ -424,6 +426,16 @@
         "title": "AQU/bracu",
         "author": "AQU",
         "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLq1kE3IvmqQ61uZyJUJj0zG-OF-CE4fLa"
+      },
+      {
+        "title": "AMK/bracu",
+        "author": "Abu Muhammad Khan",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLCh3_NUqW7_JKhjHEeM1JOt2LW8MJGjdN"
+      },
+      {
+        "title": "RRH/bracu",
+        "author": "Rafid Rahman",
+        "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLtQXTSdoymQcFoBLN1siztEU1hIkQxVQY"
       }
     ]
   },
@@ -604,7 +616,7 @@
         "link": "https://www.youtube.com/embed/videoseries?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-"
       }
     ],
-    "resources":[
+    "resources": [
       {
         "title": "Drive link 1",
         "link": "https://cses.fi/book/book.pdf"
@@ -628,15 +640,58 @@
         "title": "Bux Videos",
         "author": "Dr. Khalilur Rhaman",
         "link": "https://www.youtube.com/embed/videoseries?list=PLcVvBmM3BkTOU-LDEUUdMl_VN2DPgWrQj"
+      },
+      {
+        "title": "RBR/bracu",
+        "author": "Rakin Bin Rabbani",
+        "link": "https://www.youtube.com/embed/videoseries?list=PLWCaK_oHHOY6sCTaTOe_fGmdALn-vh9lT"
+      },
+      {
+        "title": "RAD/bracu",
+        "author": "Riad Ahmed",
+        "link": "https://www.youtube.com/embed/videoseries?list=PLkE3k0P4Vrn1iw1BCGbvFxABPjSO3ktJB"
       }
+
     ],
-    "resources":[
+    "resources": [
       {
         "title": "Drive link 1",
         "link": "https://cses.fi/book/book.pdf"
       }
     ]
-  }
+  },
 
+
+
+
+
+
+
+
+
+
+
+  {
+    "courseCode": "ECO102",
+    "title": "Macroeconomics",
+    "credit": 3,
+    "prerequisite": "ECO101",
+    "courseType": "Theory",
+    "courseCategory": "COD",
+    "semester": "",
+    "videos": [
+      {
+        "title": "Mixed Videos",
+        "author": "mixed",
+        "link": "https://www.youtube.com/embed/videoseries?list=PLOUm6fJiwrYEWRssutl6dWd2Pu7CF7QXv"
+      }
+    ],
+    "resources": [
+      {
+        "title": "",
+        "link": ""
+      }
+    ]
+  }
 
 ]
