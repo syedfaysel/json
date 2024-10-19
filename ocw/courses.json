@@ -476,19 +476,19 @@
     "videos": [
       {
         "title": "Spring 2022",
-        "author": "Fairuz Nawar Khan",
+        "author": "Fairoz Nower Khan",
         "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLsheiwzPKqWd_I5uRzJIDMhfYJD35WZY5",
         "editorsPick": true
       },
       {
-        "title": "Spring 2021 | FNK",
-        "author": "Fairuz Nawar Khan",
+        "title": "Spring 2022 | FNK",
+        "author": "Fairoz Nower Khan",
         "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLikUdyNwudnM4rng2QagbM-oSnJXxSLaP",
         "editorsPick": true
       },
       {
-        "title": "Spring 2021 | FNK",
-        "author": "Fairuz Nawar Khan",
+        "title": "Spring 2022",
+        "author": "Afia Fairoose",
         "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLZTczv_dAo9MbaqJHQNi8ki9th-oOkI_8"
       }
     ]
@@ -506,6 +506,33 @@
         "title": "Lectures by RRH",
         "author": "Rafid Rahman",
         "link": "https://www.youtube-nocookie.com/embed/videoseries?list=PLIIEr6BC1NsQ5og4B-xwPsPWBWsjLAz-2"
+      },
+      {
+        "title": "Lectures by AKO",
+        "author": "Rafid Rahman",
+        "link": "https://www.youtube.com/playlist?list=PLZTczv_dAo9OT9Z6tUzePkPd2GksIJysX"
+      },
+      {
+        "title": "341 Lab",
+        "author": "External Source",
+        "link": "https://www.youtube.com/playlist?list=PLCh3_NUqW7_KNt-hLsUqj8zZmXHO7lOl0"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE350",
+    "title": "CSE 350",
+    "credit": 3,
+    "prerequisite": "CSE221",
+    "courseType": "Theory, Lab",
+    "courseCategory": "Major",
+    "semester": "1st",
+    "videos": [
+      {
+        "title": "Class Recordings",
+        "author": "Unknown",
+        "link": "https://www.youtube.com/playlist?list=PLnCXYqYTJMTvyYHdzhAd3uWGQD9-RhX-6",
+        "editorsPick": true
       }
     ]
   },
@@ -553,6 +580,28 @@
     ]
   },
   {
+    "courseCode": "CSE423",
+    "title": "Computer Graphics",
+    "credit": 3,
+    "prerequisite": "CSE221",
+    "courseType": "Theory, Lab",
+    "courseCategory": "Major",
+    "semester": "9th",
+    "videos": [
+      {
+        "title": "CSE423 | AFA",
+        "author": "AFA",
+        "link": "https://www.youtube.com/playlist?list=PLtQXTSdoymQetY8HSK6Y0ZsTH7avkozLR"
+      },
+      {
+        "title": "Computer graphics | Practical",
+        "author": "Azwad Anjum, Bracu",
+        "link": "https://www.youtube.com/playlist?list=PLMZnvBHNk2GWK8i1lcxx4exUXjtK8QSgK"
+      }
+    ]
+  },
+
+  {
     "courseCode": "MAT216",
     "title": "Linear Algebra",
     "credit": 3,
@@ -594,6 +643,59 @@
     ]
   },
   {
+    "courseCode": "MAT215",
+    "title": "Laplace Transformation",
+    "credit": 3,
+    "prerequisite": "MAT120",
+    "courseType": "Theory",
+    "courseCategory": "Major",
+    "semester": "9th",
+    "videos": [
+      {
+        "title": "MAT215 | Fall 23",
+        "author": "Partha Sutra Dhar",
+        "link": "https://www.youtube.com/playlist?list=PL63IQkIty91joaYSai_5431PQ9BP5pvew"
+      },
+      {
+        "title": "Linear Algebra (HOA)",
+        "author": "Azmir Ibne Islam",
+        "link": "https://youtube.com/playlist?list=PL7XBjdiQyhKmxlevfGxrmhDbj8U4cZlUj&si=6MBJBOP-cnfX3cGi"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE437",
+    "title": "Data Sceince",
+    "credit": 3,
+    "prerequisite": "",
+    "courseType": "Theory",
+    "courseCategory": "Elective",
+    "semester": "9th",
+    "videos": [
+      {
+        "title": "GRA Bracu",
+        "author": "Golam Rabiul Alam",
+        "link": "https://www.youtube.com/playlist?list=PLzi4LDrZWYxbDw1iFyiJx1YPSh8GaaBlK"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE440",
+    "title": "Cryptography and Cryptoanalysis",
+    "credit": 3,
+    "prerequisite": "",
+    "courseType": "Theory",
+    "courseCategory": "Elective",
+    "semester": "9th",
+    "videos": [
+      {
+        "title": "MIH Bracu",
+        "author": "Iqbal Hossain",
+        "link": "https://www.youtube.com/playlist?list=PL5IrayslvHiEiq3CreAT_3u8ujQX4SXmU"
+      }
+    ]
+  },
+  {
     "courseCode": "CSE450",
     "title": "Advanced Competitive Programming",
     "credit": 3,
@@ -606,6 +708,11 @@
         "title": "Competitive Programming",
         "author": "Luv",
         "link": "https://www.youtube.com/embed/videoseries?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-"
+      },
+      {
+        "title": "BRACU CP",
+        "author": "Sabbir Rahman(ext)",
+        "link": "https://www.youtube.com/playlist?list=PL7BwCFdD243G0KqapOBRBvZdl9La5yADM"
       }
     ],
     "resources": [
@@ -616,6 +723,31 @@
       {
         "title": "Drive Link 2",
         "link": "https://drive.google.com/drive/folders/1"
+      },
+      {
+        "title": "CSE490/Advanced CP ALl resources",
+        "link": "https://drive.google.com/drive/u/0/folders/1_fNnk__R94UVN0pfafC4EPkIpGp8ssMU"
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE460",
+    "title": "VLSI Design",
+    "credit": 3,
+    "prerequisite": "CSE260",
+    "courseType": "Theory, Lab",
+    "courseCategory": "Major",
+    "semester": "9th",
+    "videos": [
+      {
+        "title": "Class Recordings",
+        "author": "AHB",
+        "link": "https://www.youtube.com/playlist?list=PLZTczv_dAo9PzNRh-dWEjzlAfNU43szQE"
+      },
+      {
+        "title": "Class Recordings|spring 2022",
+        "author": "TAA",
+        "link": "https://www.youtube.com/playlist?list=PLcbux5FgR-JJEZLhclidmG5w6iDCAcL7Y"
       }
     ]
   },
@@ -644,10 +776,54 @@
         "link": "https://www.youtube.com/embed/videoseries?list=PLkE3k0P4Vrn1iw1BCGbvFxABPjSO3ktJB"
       }
     ],
+    "resources": []
+  },
+  {
+    "courseCode": "CSE481",
+    "title": "Quantum Computing",
+    "credit": 3,
+    "prerequisite": "CSE260",
+    "courseType": "Theory, Lab",
+    "courseCategory": "Major",
+    "semester": "9th",
+    "videos": [
+      {
+        "title": "Class Recordings | Fall 2022",
+        "author": "",
+        "link": "https://www.youtube.com/playlist?list=PL-lCYwFS3hp2T0MAwY0MmQpWaQF0pmsJv"
+      }
+    ],
     "resources": [
       {
-        "title": "Drive link 1",
-        "link": "https://cses.fi/book/book.pdf"
+        "title": "",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "courseCode": "CSE482",
+    "title": "Quantum Computing II",
+    "credit": 3,
+    "prerequisite": "CSE260",
+    "courseType": "Theory, Lab",
+    "courseCategory": "Major",
+    "semester": "9th",
+    "videos": [
+      {
+        "title": "Class Recordings | Fall 2022",
+        "author": "",
+        "link": "https://www.youtube.com/playlist?list=PL-lCYwFS3hp1yy4K5o5yFT7BFn5bH1s8m"
+      },
+      {
+        "title": "Quantum Information Theory",
+        "author": "",
+        "link": "https://www.youtube.com/playlist?list=PLvj5w6iNZqVgt_bqYyfAbZb0uD4SxtZoD"
+      }
+    ],
+    "resources": [
+      {
+        "title": "",
+        "link": ""
       }
     ]
   },
