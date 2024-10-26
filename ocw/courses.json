@@ -33,13 +33,25 @@
   },
   {
     "courseCode": "S104",
-    "title": "java Programming",
+    "title": "Java Programming",
     "credit": null,
     "prerequisite": "None",
     "courseType": "Theory, Code",
     "courseCategory": "Unacademic",
     "semester": "",
     "videos": [
+      {
+        "title": "Java Basics",
+        "author": "Tawhid Anwar",
+        "link": "https://youtube.com/playlist?list=PLvr0Ht-XkB_0KC2-N3hv0V3ib-Z6wKkAy&si=iPUg6XmhB4_0U8Vn",
+        "editorsPick": true
+      },
+      {
+        "title": "Java (OOP)",
+        "author": "Tawhid Anwar",
+        "link": "https://youtube.com/playlist?list=PLvr0Ht-XkB_3QPWYBje6NqEs3QLj_0vpf&si=BxcwdMNB7M3pZBbm",
+        "editorsPick": true
+      },
       {
         "title": "Complete DSA in Java",
         "author": "Apna College",
@@ -244,14 +256,15 @@
     "semester": "",
     "videos": [
       {
-        "title": "Introduction to CSE110",
+        "title": "Java Basics",
         "author": "Tawhid Anwar",
-        "link": "https://www.youtube.com/embed/videoseries?list=PLvr0Ht-XkB_0V-mjAYlfgk-3VRmFarlzC"
+        "link": "https://youtube.com/playlist?list=PLvr0Ht-XkB_0KC2-N3hv0V3ib-Z6wKkAy&si=iPUg6XmhB4_0U8Vn",
+        "editorsPick": true
       },
       {
         "title": "Introduction to CSE110",
-        "author": "",
-        "link": ""
+        "author": "Tawhid Anwar",
+        "link": "https://www.youtube.com/embed/videoseries?list=PLvr0Ht-XkB_0V-mjAYlfgk-3VRmFarlzC"
       }
     ]
   },
@@ -265,6 +278,12 @@
     "courseCategory": "Major",
     "semester": "2nd",
     "videos": [
+      {
+        "title": "OOP (Java)",
+        "author": "Tawhid Anwar",
+        "link": "https://youtube.com/playlist?list=PLvr0Ht-XkB_3QPWYBje6NqEs3QLj_0vpf&si=BxcwdMNB7M3pZBbm",
+        "editorsPick": true
+      },
       {
         "title": "OOP (Python) TAW ",
         "author": "Tawhid Anwar",
